@@ -580,32 +580,32 @@
 
         // Загрузка данных из JSON файла
         async function loadAppsData() {
-            try {
-                const response = await fetch('apps.json');
-                if (!response.ok) {
-                    throw new Error('Не удалось загрузить данные приложений');
-                }
-                appsData = await response.json();
-                renderApps();
-            } catch (error) {
-                console.error('Ошибка загрузки данных:', error);
-                document.getElementById('loading').innerHTML = `
-                    <div style="text-align: center; color: #d8b9ff;">
-                        <i class="fas fa-exclamation-triangle" style="font-size: 40px; margin-bottom: 15px;"></i>
-                        <p>Не удалось загрузить данные приложений</p>
-                        <button onclick="location.reload()" style="
-                            background: #9f7aea;
-                            border: none;
-                            padding: 10px 20px;
-                            border-radius: 20px;
-                            color: white;
-                            margin-top: 15px;
-                            cursor: pointer;
-                        ">Попробовать снова</button>
-                    </div>
-                `;
+        try {
+            const response = await fetch('https://raw.githubusercontent.com/GolubDeep/golubdeep.github.io/main/apps.json?v=' + Date.now());
+            if (!response.ok) {
+                throw new Error('Не удалось загрузить данные приложений, проверьте подключение к интернету');
             }
+            appsData = await response.json();
+            renderApps();
+        } catch (error) {
+            console.error('Ошибка загрузки данных:', error);
+            document.getElementById('loading').innerHTML = `
+                <div style="text-align: center; color: #d8b9ff;">
+                    <i class="fas fa-exclamation-triangle" style="font-size: 40px; margin-bottom: 15px;"></i>
+                    <p>Не удалось загрузить данные приложений</p>
+                    <button onclick="location.reload()" style="
+                        background: #9f7aea;
+                        border: none;
+                        padding: 10px 20px;
+                        border-radius: 20px;
+                        color: white;
+                        margin-top: 15px;
+                        cursor: pointer;
+                    ">Попробовать снова</button>
+                </div>
+            `;
         }
+    }
 
         // Отображение приложений
         function renderApps() {
