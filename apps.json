@@ -1,0 +1,71 @@
+{
+  "messengers": [
+    {
+      "id": "ayu",
+      "name": "AyuGram",
+      "icon": "ayuicon.png",
+      "shortDescription": "Мощный мессенджер с расширенными функциями",
+      "description": "AyuGram - это модифицированная версия Telegram с расширенными функциями и настройками. Приложение предлагает уникальные возможности кастомизации и улучшенный пользовательский опыт. Поддерживает все основные функции мессенджера, а также дополнительные возможности, такие как темы, кастомизация интерфейса и многое другое.",
+      "version": "9.5.1",
+      "size": "78.4 MB",
+      "requirements": "Android 9.0+",
+      "category": "Мессенджеры",
+      "developer": "AyuGram Team",
+      "downloadUrl": "https://download946.mediafire.com/pk9grzv0u5jgHMuLQv4zvdDM7hfdFptDt16ScYcyN0_8GyJq0AML4-mDwYeDSGmd-WhMb85u0mIWsZbOlBi95_wiLzh1AcObd6UGD0KW2HunTj5dUJ4uDxSv7SjxOksA5OD5kPU-4XXceM2AuOUBq6_WJA-9jsFk62k6nM3idt8/x2gvchd9h4iammt/vanilla-ayuGram-universal-20250624.apk"
+    },
+    {
+      "id": "extera",
+      "name": "ExteraGram",
+      "icon": "extraicon.png",
+      "shortDescription": "Экстра версия популярного мессенджера",
+      "description": "ExteraGram - это экстра версия популярного мессенджера с дополнительными функциями и улучшениями. Приложение предоставляет расширенные возможности для общения, включая улучшенную безопасность, дополнительные эмодзи и стикеры, а также множество настроек внешнего вида.",
+      "version": "4.7.2",
+      "size": "65.2 MB",
+      "requirements": "Android 8.0+",
+      "category": "Мессенджеры",
+      "developer": "ExteraGram Team",
+      "downloadUrl": "https://github.com/exteraSquad/exteraGram/releases/download/v11.5.3/exteraGram-universal-31122024.apk"
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "icon": "tg.png",
+      "shortDescription": "Быстрый и безопасный мессенджер",
+      "description": "Telegram - быстрый и безопасный мессенджер, которыйFocus на скорость и безопасность. Он быстрый, простой и бесплатный. Вы можете использовать Telegram на всех своих устройствах одновременно — ваши сообщения синхронизируются бесшовно между любым количеством ваших телефонов, планшетов или компьютеров.",
+      "version": "10.0.0",
+      "size": "89.1 MB",
+      "requirements": "Android 7.0+",
+      "category": "Мессенджеры",
+      "developer": "Telegram FZ-LLC",
+      "downloadUrl": "https://telegram.org/dl/android/apk"
+    }
+  ],
+  "other": [
+    {
+      "id": "gcam",
+      "name": "Google Camera",
+      "icon": "gcam.webp",
+      "shortDescription": "Камера с расширенными возможностями",
+      "description": "Google Камера - приложение для съемки фото и видео с расширенными возможностями. Включает портретный режим, ночной режим, HDR+ и многие другие функции для улучшения качества ваших снимков.",
+      "version": "8.8.224",
+      "size": "112.5 MB",
+      "requirements": "Android 11.0+",
+      "category": "Фото и видео",
+      "developer": "Google LLC",
+      "downloadUrl": "https://download1479.mediafire.com/9iywz3wp70gg5L-_bNqdGPIQL3Sw5ek9kMoX8sQ60g8JcXPY727MbW-bpWARDd5ls0NCV1ZzA7jLFn2aNGKOYVYdtn5yvxdxdyiIdtH4h_e05b8yMzhhSOAf902byPC5jJfUCcZ1Zosw42MPKHa6wKPky6CfCDpoKZwnSDfJ2OA/btlufw8j4u6x0sk/com.google.android.googlecamera_8.2.300.368894857.16.apk"
+    },
+    {
+      "id": "gplay",
+      "name": "Google Play",
+      "icon": "gplay.webp",
+      "shortDescription": "Официальный магазин приложений",
+      "description": "Официальный магазин приложений Google Play предоставляет доступ к миллионам приложений, игр, фильмов, книг и другого контента. Безопасная и надежная платформа для загрузки приложений.",
+      "version": "36.4.12",
+      "size": "45.8 MB",
+      "requirements": "Android 6.0+",
+      "category": "Инструменты",
+      "developer": "Google LLC",
+      "downloadUrl": "https://download1478.mediafire.com/8vgzpop6yxtgwecmyL1Yd7DC81mSDjUxG29xwgHudzDSMmb5r4ek09WKr7haug6FIXMC9BWTU-ivmKvIp6UtjszKirKePSbhwMmXen1xmaXkyonm2wXx1nB53j9r18Hmblf3xaVgJJxK_kk8HScMmi8t0mziG7nllRygfSsL1HE/io1r4rxu9soqqhz/com.android.vending_47.5.19-29_0_pr_793029697-84751920.apk"
+    }
+  ]
+}
