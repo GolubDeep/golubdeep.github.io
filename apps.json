@@ -38,6 +38,19 @@
       "category": "Мессенджеры",
       "developer": "Telegram FZ-LLC",
       "downloadUrl": "https://telegram.org/dl/android/apk"
+    },
+    {
+      "id": "max",
+      "name": "White Max",
+      "icon": "https://i.postimg.cc/D07vP852/photo-2025-08-31-12-00-58.jpg",
+      "shortDescription": "Безопастный мод на приложение Max",
+      "description": "White Max - модификация на приложение MAX. В данной модификации отозваны все сторонние разрешения которые нельзя отключить в настройках.",
+      "version": "1.0.0",
+      "size": "111.98 MB",
+      "requirements": "Android 7.0+",
+      "category": "Мессенджеры",
+      "developer": "whitemaxmod@gmail.com",
+      "downloadUrl": "https://f83.workupload.com/download/D3c2CTjWG59"
     }
   ],
   "other": [
