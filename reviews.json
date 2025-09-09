@@ -1,0 +1,20 @@
+{
+  "ayu": [
+    {
+      "author": "Deep",
+      "rating": 5,
+      "text": "аюграмчик, iба чотко",
+      "date": "2025-09-9T10:30:00.000Z",
+      "status": "approved"
+    }
+  ],
+  "extera": [
+    {
+      "author": "Kozen P12",
+      "rating": 5,
+      "text": "прикольн",
+      "date": "2025-09-9T10:31:00.000Z",
+      "status": "approved"
+    }
+  ]
+}
