@@ -66,6 +66,32 @@
       "category": "Инструменты",
       "developer": "Google LLC",
       "downloadUrl": "https://download1478.mediafire.com/8vgzpop6yxtgwecmyL1Yd7DC81mSDjUxG29xwgHudzDSMmb5r4ek09WKr7haug6FIXMC9BWTU-ivmKvIp6UtjszKirKePSbhwMmXen1xmaXkyonm2wXx1nB53j9r18Hmblf3xaVgJJxK_kk8HScMmi8t0mziG7nllRygfSsL1HE/io1r4rxu9soqqhz/com.android.vending_47.5.19-29_0_pr_793029697-84751920.apk"
+    },
+    {
+      "id": "AnyDesk",
+      "name": "AnyDesk",
+      "icon": "https://trashbox.ru/apk_icons/topic_134225_256.png?1757061370",
+      "shortDescription": "Приложение для быстрого удаленного доступа",
+      "description": "Проприетарное программное обеспечение для удалённого доступа, удалённого управления и удалённого обслуживания компьютеров и других конечных устройств, выпущенное в 2015 году, разрабатываемое компанией AnyDesk Software GmbH[2]. Предлагает возможности удалённого управления, передачи файлов и VPN.",
+      "version": "8.0.2",
+      "size": "40.2 MB",
+      "requirements": "Android 5.0+",
+      "category": "Инструменты",
+      "developer": "AnyDesk",
+      "downloadUrl": "https://download.anydesk.com/anydesk.apk"
+    },
+    {
+      "id": "ADcontrol",
+      "name": "ADcontrol",
+      "icon": "https://trashbox.ru/apk_icons/topic_134225_256.png?1757061370",
+      "shortDescription": "Плагин для AnyDesk, обязательный к скачиванию",
+      "description": "Плагин для приложения AnyDesk - Проприетарное программное обеспечение для удалённого доступа, удалённого управления и удалённого обслуживания компьютеров и других конечных устройств, выпущенное в 2015 году, разрабатываемое компанией AnyDesk Software GmbH[2]. Предлагает возможности удалённого управления, передачи файлов и VPN.",
+      "version": "8.0.2",
+      "size": "1,1 MB",
+      "requirements": "Android 5.0+",
+      "category": "Плагины",
+      "developer": "???",
+      "downloadUrl": "https://download.anydesk.com/android/plugins/adcontrol-ad1.apk"
     }
   ]
 }
