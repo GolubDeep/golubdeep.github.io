@@ -96,7 +96,7 @@
     {
       "id": "ADcontrol",
       "name": "ADcontrol",
-      "icon": "https://play-lh.googleusercontent.com/HRtFR4eLh2kx2o13_3KQdWHzPitvFmXZ5Ym0icTLKL41VtpKpqI0DlRNlTKxbNV8R3g",
+      "icon": "https://raw.githubusercontent.com/GolubDeep/golubdeep.github.io/refs/heads/main/unnamed.png",
       "shortDescription": "Плагин для AnyDesk, обязательный к скачиванию",
       "description": "Плагин для приложения AnyDesk - Проприетарное программное обеспечение для удалённого доступа, удалённого управления и удалённого обслуживания компьютеров и других конечных устройств, выпущенное в 2015 году, разрабатываемое компанией AnyDesk Software GmbH[2]. Предлагает возможности удалённого управления, передачи файлов и VPN.",
       "version": "8.0.2",
